@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Stars_For_Participants
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 890322
+Implementation-Vendor-Id: com.project
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://spring.io/projects/spring-boot/Stars_For_P
+ articipants
+Created-By: Maven Integration for Eclipse
+
